@@ -1,19 +1,21 @@
 <dc:identifier id="epub-id-1">urn:isbn:NNN-NN-NN-NN-n</dc:identifier>
 <meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">01</meta>
-<dc:title id="epub-title-1">The List Serves</dc:title>
+<dc:title id="epub-title-1">Algorithmic Anxiety in Contemporary Art: A Kierkegaardian Inquiry into the Imaginary of Possibility</dc:title>
 <meta refines="#epub-title-1" property="title-type">main</meta>
 <dc:publisher>Institute of Network Cultures</dc:publisher>    
-<dc:date id="epub-date">2017-02</dc:date>
+<dc:date id="epub-date">2020-02</dc:date>
 <dc:language>en-US</dc:language>
-<dc:creator id="epub-creator-0">Kenneth C. Werbin</dc:creator>
+<dc:creator id="epub-creator-0">Patricia de Vries</dc:creator>
 <meta refines="#epub-creator-0" property="role" scheme="marc:relators">aut</meta>
-<dc:contributor id="epub-contributor-1">Miriam Rasch</dc:contributor>
+<dc:contributor id="epub-contributor-1">Sepp Eckenhaussen</dc:contributor>
 <meta refines="#epub-contributor-1" property="role" scheme="marc:relators">edt</meta>
-<dc:contributor id="epub-contributor-5">Leonieke van Dipten</dc:contributor>
-<meta refines="#epub-contributor-5" property="role" scheme="marc:relators">dsr</meta>
 <dc:rights>Creative Commons Attribution, NonCommercial, ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)</dc:rights>
-<dc:subject>Lists</dc:subject>
-<dc:description>PUBLICATION SYNOPSIS</dc:description>
+<dc:subject>Algorithmic Anxiety</dc:subject>
+<dc:description>Over the past decade, a growing number of artists and critical  practitioners have become engaged with algorithms, resulting in algorithmic theatre, bot art, and algorithmic media and performance art of various kinds, which thematize the dissemination and deployment of algorithms in everyday life. Especially striking is the high volume of artistic engagements with facial recognition algorithms, trading algorithms and search engine algorithms over the past few years.
+
+The fact that these three types of algorithms have garnered more artistic responses than other types of algorithms, suggests that they form a popular subject of artistic critique. This critique addresses some of the major, supra-individual anxieties of our decade: socio-political uncertainty, the global economic crisis and ongoing recession, the centralization and corporatization of access to online information, and political polarization and instability. However, the constituents of the anxieties, which seem to be central to our experience of algorithmic culture, is rarely interrogated. It therefore merits closer reading.
+
+This book uses prominent artistic representations of facial recognition algorithms, trading algorithms and search algorithms as the entry point into an exploration of the constituents of the anxieties braided around these algorithms. I propose that the work of Søren Kierkegaard — one of the first theorists of anxiety — helps us to investigate and critically analyse the constituents of what I will call ‘algorithmic anxiety’.</dc:description>
 
 
 
