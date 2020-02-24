@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 <a href="ch005.xhtml">1\.  From Algorithmic Culture to Algorithmic Anxiety</a>
 
-<a href="ch006.xhtml">2\. Masked and Camouflaged: Thwarting Off FacialRecognition Algorithms, or The Possibility of Self</a>
+<a href="ch006.xhtml">2\. Masked and Camouflaged: Thwarting Off Facial Recognition Algorithms, or The Possibility of Self</a>
 
 <a href="ch007.xhtml">3\. A Specter, a Deity and a Flood in the Black Box of Finance, or the Possible in the Actual</a>
 

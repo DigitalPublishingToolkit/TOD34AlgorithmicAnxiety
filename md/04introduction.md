@@ -16,9 +16,7 @@ Rights: CC BY-NC 4.0
 # Introduction: From Algorithms to Algorithmic Culture
 
 For a long time, artistic engagement with algorithms was marginal in
-contemporary art.
-
-Over the past eight years, however, a growing number of artists and
+contemporary art. Over the past eight years, however, a growing number of artists and
 critical practitioners have become engaged with algorithms, resulting in
 algorithmic theatre, bot art, and algorithmic media and performance art
 of various kinds, which thematize the dissemination and deployment of
@@ -118,9 +116,7 @@ corporatization of online information. Taken together, these three types
 of algorithms address significant supra-individual anxieties of this
 decade: socio-political uncertainty, the global economic crisis and
 ongoing recession, the centralization and financialization of access to
-online information, and political polarization and instability.
-
-However, what *underpins* of these anxieties and why these three types
+online information, and political polarization and instability. However, what *underpins* of these anxieties and why these three types
 of algorithms form the subject of critique is rarely interrogated, less
 so when this criticism takes the form of artistic portrayals. This is
 one issue that I wish to address.
@@ -489,10 +485,10 @@ through algorithmic anxiety.
 [^intro_4]: R. Kitchin, ‘Thinking Critically About and Researching
     Algorithms’, *Information, Communication & Society*, 1 (2016), 14.
 
-[^intro_5]: Striphas, ‘Algorithmic Culture’, p. 395.
+[^intro_5]: Striphas, ‘Algorithmic Culture’, 395.
 
 [^intro_6]: E.g. O. Halpern, *Beautiful Data: A History of Vision and Reason
-    Since 1945*, London: Duke Press, 2014
+    Since 1945*, London: Duke Press, 2014.
 
 [^intro_7]: Dourish, ‘Algorithms and Their Others’, 1.
 

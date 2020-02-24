@@ -1,7 +1,7 @@
 ---
 Pr-id: Algorithmic Anxiety: A Kierkegaardian Inquiry into the Imaginary of Possibility
 P-id: Theory on Demand
-A-id: 32
+A-id: 33
 Type: article
 Book-type: anthology
 Anthology item: article
@@ -14,7 +14,7 @@ Rights: CC BY-NC 4.0
 
 # Colophon
 
-Theory on Demand #34
+Theory on Demand #33
 <br/>**Algorithmic Anxiety: A Kierkegaardian Inquiry into the Imaginary of Possibility**
 
 Author: Patricia de Vries
@@ -26,7 +26,7 @@ Author: Patricia de Vries
 <br/>Supported by the Amsterdam University of Applied Sciences, Faculty of Digital Media and Creative Industries.
 <br/>
 <br/>Published by the Institute of Network Cultures, Amsterdam, 2019
-<br/>ISBN
+<br/>ISBN 978-94-92302-51-9
 
 **Contact**
 <br/>Institute of Network Cultures

@@ -5,7 +5,7 @@
 
 # Colophon
 
-Theory on Demand #34
+Theory on Demand #33
 <br/>**Algorithmic Anxiety: A Kierkegaardian Inquiry into the Imaginary of Possibility**
 
 Author: Patricia de Vries
@@ -17,7 +17,7 @@ Author: Patricia de Vries
 <br/>Supported by the Amsterdam University of Applied Sciences, Faculty of Digital Media and Creative Industries.
 <br/>
 <br/>Published by the Institute of Network Cultures, Amsterdam, 2019
-<br/>ISBN
+<br/>ISBN 978-94-92302-51-9
 
 **Contact**
 <br/>Institute of Network Cultures
@@ -42,7 +42,7 @@ or freely downloaded from http://www.networkcultures.org/publications.
 
 <a href="ch005.xhtml">1\.  From Algorithmic Culture to Algorithmic Anxiety</a>
 
-<a href="ch006.xhtml">2\. Masked and Camouflaged: Thwarting Off FacialRecognition Algorithms, or The Possibility of Self</a>
+<a href="ch006.xhtml">2\. Masked and Camouflaged: Thwarting Off Facial Recognition Algorithms, or The Possibility of Self</a>
 
 <a href="ch007.xhtml">3\. A Specter, a Deity and a Flood in the Black Box of Finance, or the Possible in the Actual</a>
 
@@ -61,9 +61,7 @@ or freely downloaded from http://www.networkcultures.org/publications.
 # Introduction: From Algorithms to Algorithmic Culture
 
 For a long time, artistic engagement with algorithms was marginal in
-contemporary art.
-
-Over the past eight years, however, a growing number of artists and
+contemporary art. Over the past eight years, however, a growing number of artists and
 critical practitioners have become engaged with algorithms, resulting in
 algorithmic theatre, bot art, and algorithmic media and performance art
 of various kinds, which thematize the dissemination and deployment of
@@ -163,9 +161,7 @@ corporatization of online information. Taken together, these three types
 of algorithms address significant supra-individual anxieties of this
 decade: socio-political uncertainty, the global economic crisis and
 ongoing recession, the centralization and financialization of access to
-online information, and political polarization and instability.
-
-However, what *underpins* of these anxieties and why these three types
+online information, and political polarization and instability. However, what *underpins* of these anxieties and why these three types
 of algorithms form the subject of critique is rarely interrogated, less
 so when this criticism takes the form of artistic portrayals. This is
 one issue that I wish to address.
@@ -534,10 +530,10 @@ through algorithmic anxiety.
 [^intro_4]: R. Kitchin, ‘Thinking Critically About and Researching
     Algorithms’, *Information, Communication & Society*, 1 (2016), 14.
 
-[^intro_5]: Striphas, ‘Algorithmic Culture’, p. 395.
+[^intro_5]: Striphas, ‘Algorithmic Culture’, 395.
 
 [^intro_6]: E.g. O. Halpern, *Beautiful Data: A History of Vision and Reason
-    Since 1945*, London: Duke Press, 2014
+    Since 1945*, London: Duke Press, 2014.
 
 [^intro_7]: Dourish, ‘Algorithms and Their Others’, 1.
 
@@ -991,7 +987,7 @@ Kierkegaard’s conception of the self differs from that which is dominant
 in western philosophy, which typically views the self as private
 conscience, a type of substance, an autonomous entity, or as a subject
 of knowledge. In contrast, Kierkegaard rethinks the self as a relational
-synthesis. In an often-cited paragraph from SUD, he explains in turgid
+synthesis. In an often-cited paragraph from *The Sickness unto Death*, he explains in turgid
 prose his notion of the self as a synthesis:
 
 > But what is the self? The self is a relation that relates itself to
@@ -1203,7 +1199,7 @@ is Christian. However, it is not some entity or bearded man somewhere up
 on a cloud, nor is it an all-seeing judge. In his work, Kierkegaard uses
 different terms to write about God, including (but not limited to)
 ‘absolute freedom’, ‘possibility’, ‘spirit’, ‘the god’, ‘faith’, and
-‘the unknown’. One of his more devout Christian pseudonymous personas
+‘the unknown’. Some of his more devout Christian pseudonymous personas
 might be Vigilius Haufniensis in *The Concept of Anxiety,* or
 Anti-Climacus in *The Sickness unto Death.* While one of his most
 semi-religious pseudonymous personas might be Johannes Climacus, the
@@ -1282,7 +1278,7 @@ a fact or Truth. Therefore, to choose to commit to a subjective truth is
 a risky business, giving rise to anxiety, and takes courage,
 perseverance, and imagination. Kierkegaard:
 
-> Without risk, no faith… If I am able to apprehend God objectively, I
+> Without risk, no faith […] If I am able to apprehend God objectively, I
 > do not have faith; but because I cannot do this, I must have faith. If
 > I want to keep myself in faith, I must continually see to it that I
 > hold fast the objective uncertainty, see to it that in the objective
@@ -1381,7 +1377,7 @@ that it is qualitatively different from knowledge and that it is not
 identical with the improbable, the unexpected, or the unforeseen.[^ch01_86]
 It also stresses his point that there is *no causality* between really
 wanting something and working your fingers to your bones and achieving
-what you want. A similar logic of can be found in his writings about the
+what you want. A similar logic can be found in his writings about the
 exception. The exception, Kierkegaard writes in *Repetition* (1843),
 cannot bypass the universal but ‘battles through it’.[^ch01_87] It is an
 absurd and paradoxical simultaneity of the universal and the particular,
@@ -1458,8 +1454,8 @@ the self in algorithmic culture may also be conditioned by the
 over-emphasizing and over-coding of the infinite and the possible, up to
 the point that is has lost its footing in necessity. This happens, for
 example, with a type of thinking in which the algorithmic technologies
-of advanced capitalism are mystified, depoliticized, and imagined as
-having infinite powers.
+of advanced capitalism are mystified, depoliticized, or imagined as
+having infinite and god-like powers.
 
 The starting point for the development of the concept of algorithmic
 anxiety is the suggestion that anxiety about algorithms lacks grounding
@@ -1528,7 +1524,7 @@ algorithmic possibility.
 [^ch01_7]: Rouvroy and Berns, ‘Algorithmic Governmentality and Prospects of
     Emancipation, 25.
 
-[^ch01_8]: Cheney-Lippold, *We are Data,* 5.
+[^ch01_8]: Cheney-Lippold, *We Are Data,* 5.
 
 [^ch01_9]: M. Pasquinelli, ‘The Spike: On the Growth and Form of Pattern
     Police’, in *Nervous Systems: Quantified Life and the Social
@@ -1539,11 +1535,11 @@ algorithmic possibility.
     Information Society and Culture*, edited by B. Peters, Princeton:
     Princeton University Press, 2016, 27.
 
-[^ch01_11]: Cheney-Lippold, *We are Data,* 6.
+[^ch01_11]: Cheney-Lippold, *We Are Data,* 6.
 
-[^ch01_12]: Cheney-Lippold, *We are Data,* 6.
+[^ch01_12]: Cheney-Lippold, *We Are Data,* 6.
 
-[^ch01_13]: Cheney-Lippold, *We are Data,* 4.
+[^ch01_13]: Cheney-Lippold, *We Are Data,* 4.
 
 [^ch01_14]: S. Milan, ‘\#hackeverything: Everyday Life and Politics in the
     Computational Theocracy’, in *Hacking Habitat: Art of Control: Arts
@@ -1624,7 +1620,7 @@ algorithmic possibility.
 
 [^ch01_36]: Cave, ‘Intelligence: A History’.
 
-[^ch01_37]: Admittedly, not all scholars consider algorithmic culture to be a
+[^ch01_37]: Not all scholars consider algorithmic culture to be a
     cause of concern. Some academics muse optimistically about the
     algorithmic replacement of human labour and envision scenarios of
     happy post-work co-existence. On this end of the spectrum, we find
@@ -1641,7 +1637,7 @@ algorithmic possibility.
     will seek meaning in human relationships, self-actualization, and
     spirituality, much as they do now. The need to earn a living will be
     a distant memory, another piece of humanity's barbaric past that we
-    rose above.’ (p. 279)
+    rose above’ (p. 279).
 
 [^ch01_38]: C.S. Evans, *Kierkegaard: An Introduction*, Cambridge: Cambridge
     University Press, 2009, 30.
@@ -1652,7 +1648,7 @@ algorithmic possibility.
     character that relates in its own way to the central concepts in his
     work. Thus, there is no conclusive answer to what these concepts
     mean because they are thought out and acted out in different and
-    often contradictory ways and fail to provide closure.
+    often contradictory ways and fail intentionally to provide closure.
 
 [^ch01_40]: Evans, *Kierkegaard*, 29.
 
@@ -1810,7 +1806,7 @@ algorithmic possibility.
 > 
 > This ownership passes out of our hands at birth, at the moment we are first observed.
 >
-> – Janet Malcolm
+> — Janet Malcolm, *The Silent Woman*
 
 ## Introduction[^ch02_1]
 
@@ -2019,7 +2015,7 @@ self is not autonomous. Kierkegaard writes:
 > the self is a relation that relates itself to itself or is the
 > relation’s relating itself to itself in the relation; the self is not
 > the relation but is the relation’s relating itself to itself to and in
-> relating itself to itself… The human self is such derived, established
+> relating itself to itself \[…\] The human self is such derived, established
 > relation, a relation that relates itself to itself and in relating to
 > itself it relates to another.[^ch02_23]
 
@@ -2036,7 +2032,7 @@ something “other.” In *Either/Or* he describes this ‘something’ as follo
 > treasure, and the direction observation must take is intimated by the
 > way one face lies as though inside the other.[^ch02_24]
 
-The face assumes here ‘an ambiguity’.[^ch02_25] According to Kierkegaard,
+A face, as Kierkegaard describes here, assumes here ‘an ambiguity’, in that it carries another face.[^ch02_25] A face, understood this way, is always-already masked. According to Kierkegaard,
 situations that evoke anxiety are undetermined, vague, and ambiguous.
 Thus this ‘otherness within’, this ‘hidden secret’ to which we stand in
 relation and of which we have no knowledge, can condition anxiety. The
@@ -2073,7 +2069,7 @@ visualize how identity recognition technology analyses human faces
 whilst also resisting identity recognition technology by offering an
 undetectable face masks. His *Facial Weaponisation Suite* (2012-2014)
 comprises a series of amorphous collective masks designed and produced
-during community workshops by at LGBTI+ and minority groups. They are a
+during community workshops by at LGBTQI+ and minority groups. They are a
 form of resistance against facial recognition technologies and the
 inequalities these technologies normalize. These masks, by virtue of
 their shape and cryptographic material, will not be recognized as a face
@@ -2390,7 +2386,7 @@ biopower ascribed to facial recognition systems flows from its
 collecting and using of information to which the captured face gives
 access. The form of biopower that information collection exerts is
 imagined in different ways. Blas fears an algorithmic culture in which
-LGBTI+ minority groups are targeted, excluded, and treated with
+LGBTQI+ minority groups are targeted, excluded, and treated with
 indifference. Harvey fears being itemized, listed, and valued only in
 relation to the data that can be extracted and collected from his walks
 of life in the interests of profit or power for others. Crispin's fears
@@ -2405,8 +2401,8 @@ observes:
 
 > \[P\]aranoid narratives of Big Brother's all-seeing and all-archiving
 > eye are similarly agoraphobic. They too mark as ideal noninvasive,
-> happy spaces … The info-paranoid respond to the current 'public'
-> infrastructure …by creating private (that is, secret) spaces or
+> happy spaces \[…\] The info-paranoid respond to the current 'public'
+> infrastructure \[…\] by creating private (that is, secret) spaces or
 > cloaks, within which they hope to be invisible.[^ch02_64]
 
 These artists seem to suggest that to safeguard the self from the
@@ -2538,7 +2534,7 @@ technologies of informatic visibility, or what he calls ‘autonomous
 free-zones’: protected and closed-off areas. The ‘ideal of peace and
 quiet’ is here produced by engaging masks as a weapon in combat against
 an imagined and externalized influencing machine.[^ch02_80] However, it is by
-virtue of this ‘free zone’ between human and technological environment
+virtue of this ‘free zone’ between humans and their technological environment
 that the synthesis between the two is foregrounded. The possibility of
 individual alterity and singularity — externalized and imagined as a
 form of negative liberty — appears to stand in direct relation to, even
@@ -2581,8 +2577,8 @@ mirroring; his masks reflect back and ‘hold a mirror up to the
 all-seeing eye of the digital-panopticon’.[^ch02_81] Invisibility understood
 as unrecognizability is here achieved by way of swapping one's real face
 with a model. What is reflected in the mirror Crispin holds up to
-identity recognition technology is not Reality, but the Model. Identity
-recognition technology is represented as a dog chasing its own tail.
+identity recognition technology is not Reality, but the Model. The gap between is reminiscent of Kierkegaard's description of seeing 'another face within the one you see'.
+
 
 These different takes on facial recognition technology cast doubt on the
 indexical relation between face capture and the self. Read along the
@@ -2839,22 +2835,22 @@ embedded and point to possible and unconventional interventions.
     ethics, most famously in the work of Emmanuel Levinas who, like
     Goffman, considers the face not as a part of the body nor even as
     mere physical appearance, but rather as ‘the way in which the other
-    presents himself, exceeding *the idea of the other in me*’. E.
+    presents himself, exceeding *the idea of the other in me*’. (E.
     Levinas, E. *Totality and Infinity: An Essay on Exteriority*,
     Pittsburgh, PA: Duquesne University Press, 1969, 50, italics in
-    original. Judith Butler has called attention to the politics of what
+    original.) Judith Butler has called attention to the politics of what
     she calls radical effacement, whereby certain people never appear in
     a normative or political register because they have been effectively
     effaced either through occlusion or through representation, which
     means that their suffering and death therefore become ungrieveable.
-    J. Butler, *Precarious Life: The Powers of Mourning and Violence*,
-    London: Verso, 2004. And Gilles Deleuze and Félix Guattari argue
+    (J. Butler, *Precarious Life: The Powers of Mourning and Violence*,
+    London: Verso, 2004.) And Gilles Deleuze and Félix Guattari argue
     that the face, in its normative understanding, is a codified and
     rigid landscape of power whose meaning and subject does not depend
     on the singular faciality traits co-opted by it. The face is the
-    constant effort to over-code the uncodeable. G. Deleuze and F.
+    constant effort to over-code the uncodeable. (G. Deleuze and F.
     Guattari, *A Thousand Plateaus: Capitalism and Schizophrenia*,
-    Minneapolis: University of Minnesota Press, 1987, 186.
+    Minneapolis: University of Minnesota Press, 1987, 186.)
 
 [^ch02_20]: Kierkegaard, *The Concept of Anxiety,* 68.
 
@@ -2901,14 +2897,14 @@ embedded and point to possible and unconventional interventions.
 
 [^ch02_37]: Crispin, as cited in Doringer and Felderer, *Faceless,* 83.
 
-[^ch02_38]: S. Crispin, ‘Data-masks: Biometric Surveillance Masks Evolving in
+[^ch02_38]: S. Crispin, ‘Data-Masks: Biometric Surveillance Masks Evolving in
     the Gaze of the Technological Other’, MA Thesis, 2014,
     http://www.sterlingcrispin.com/Sterling\_Crispin\_Datamasks\_MS\_Thesis.pdf.
 
-[^ch02_39]: S. Crispin, ‘Data-masks’, *Sterling Crispin,* 2013,
+[^ch02_39]: S. Crispin, ‘Data-Masks’, *Sterling Crispin,* 2013,
     http://www.sterlingcrispin.com/data-masks.html.
 
-[^ch02_40]: Crispin, ‘Data-masks’.
+[^ch02_40]: Crispin, ‘Data-Masks’.
 
 [^ch02_41]: H.R. Shell, *Hide and Seek: Camouflage, Photography, and the
     Media of Reconnaissance,* New York, NY: Zone Books, 2012, 10.
@@ -2938,9 +2934,9 @@ embedded and point to possible and unconventional interventions.
     *The New Yorker,* 13 April 2015,
     http://www.newyorker.com/magazine/2015/04/13/sight-unseen-criticat-large-kathryn-schulz.
 
-[^ch02_51]: Crispin, ‘Data-masks’.
+[^ch02_51]: Crispin, ‘Data-Masks’.
 
-[^ch02_52]: Crispin, ‘Data-masks’.
+[^ch02_52]: Crispin, ‘Data-Masks’.
 
 [^ch02_53]: Harvey, ‘Face to Anti-Face’.
 
@@ -2950,9 +2946,9 @@ embedded and point to possible and unconventional interventions.
 
 [^ch02_56]: Harvey, ‘Face to Anti-Face’.
 
-[^ch02_57]: Crispin, ‘Data-masks’.
+[^ch02_57]: Crispin, ‘Data-Masks’.
 
-[^ch02_58]: Crispin, ‘Data-masks’.
+[^ch02_58]: Crispin, ‘Data-Masks’.
 
 [^ch02_59]: Blas, as cited in Cox, ‘The Rise of the Anti-facial Recognition
     Movement’.
@@ -2977,7 +2973,7 @@ embedded and point to possible and unconventional interventions.
 
 [^ch02_62]: Acland, *Swift Viewing.*
 
-[^ch02_63]: Crispin, ‘Data-masks’.
+[^ch02_63]: Crispin, ‘Data-Masks’.
 
 [^ch02_64]: W.H.K. Chun, *Control and Freedom: Power and Paranoia in the Age
     of Fiber Optics*, Cambridge, MA: The MIT Press, 2006, 255.
@@ -3022,7 +3018,7 @@ embedded and point to possible and unconventional interventions.
 [^ch02_80]: B. Colomina, ‘Domesticity at War’, *Discourse*, 14.1 (1991-1992),
     7.
 
-[^ch02_81]: Crispin, ‘Data-masks’.
+[^ch02_81]: Crispin, ‘Data-Masks’.
 
 [^ch02_82]: M. Steinweg, ‘Subject Without a Face’, in *Opaque Presence:
     Manual of Latent Invisibilities*, edited by A. Broeckmann and
@@ -3065,7 +3061,7 @@ while shouting into telephones, gesticulating and making hand signs.
 Robots took their jobs. Or rather, today, an estimated 75% of the buying
 and selling of stock is done by high-frequency trading (HFT) algorithms
 that automatically issue orders, in milliseconds, and respond to one
-another and to shifting market conditions.[^ch03_2] These developments,
+another and to shifting market conditions.[^ch03_2] These developments in automated labour,
 combined with the rise of trades in rather complex financial instruments
 and the global financial crisis that started in 2008, strengthened the
 image of the financial markets as unpredictable and turbulent.[^ch03_3]
@@ -3217,7 +3213,7 @@ technology succeed, the more opaque and obscure they become’, Latour
 argued.[^ch03_20]
 
 These days, publications such as Basil J. Moore’s *Unpacking the Post
-Keynesian Black Box* (2015), Frank Pasquale’s *The Black Box Society:
+Keynesian Black Box* (2015), Pasquale’s *The Black Box Society:
 The Secret Algorithms that Control Money and Information* (2012), and
 Donald McKenzie’s *Opening the Black Boxes of Global Finance* (2005)
 demonstrate that the black box is a customarily-referenced concept in
@@ -3291,7 +3287,7 @@ and technical components of algorithmic trading more generally.
 In the following section, I discuss two major artistic approaches to
 representing the black box of finance: digging down and standing back.
 The difficulties of imagining and expressing what is considered to be an
-abstract and immaterial market that appears to "happen" inside a black
+abstract and immaterial market that appears to 'happen' inside a black
 box, and out of sight of human inspection, is a recurring theme in
 digging down representations of algorithmic trading. The second
 approach, standing back, is characterized by artists that re-enact or
@@ -3312,7 +3308,7 @@ background and become unrecognizable from the background, these artworks
 presuppose an artistic subject as a kind of field guide cum
 documentarist, present in space as a point of reference, and posit the
 black box of finance as an invisible object that, in turn, is made
-visible and materialized by virtue of the artist ‘s position as field
+visible and materialized by virtue of the artist's position as field
 guide cum documentarist.
 
 Take, for instance, Mark Curran’s *The Market* (2010 - ongoing), an
@@ -3321,7 +3317,7 @@ Frankfurt, Addis Abeba and Amsterdam. Curran:
 
 > I became aware of the central role of technology, specifically what we
 > may define as algorithmic machinery… within a decade there will be no
-> human traders, having been largely replaced by these systems. …And
+> human traders, having been largely replaced by these systems. \[…\] And
 > this is where it can become rather dystopian.[^ch03_33]
 
 Visitors of an exhibition view of *The Market* are shown a quote written
@@ -3380,7 +3376,7 @@ of a German landscape where the trade routes of high-frequency trading,
 laid below the surface by fiber optic cable lines on the straightest
 path allowed by law, connect major stock exchanges. In the words of
 Benjaminsen, the drone video shows ‘the physical landscapes of an
-immaterial market’.[^ch03_37] Where *The Market* focusses on the brick and
+immaterial market’.[^ch03_37] Where *The Market* focuses on the brick and
 mortar of financial institutions and the people working inside them,
 *Where Money Is Made* centers on the lines of connection by fiber optic
 cable between financial institutions.
@@ -3495,7 +3491,7 @@ the architecture of databases, the documentary photographs, the
 trajectory of cables, the ominous sounds, the graphs, the charts, and
 bricks and mortar are meant to help reveal about algorithmic trading.
 
-## The Aesthetics of the Inside of the Box: Standing Back
+## The Aesthetics of the Inside of the Black Box: Standing Back
 
 Another dominant imaginary of algorithmic trading takes a different
 tack: it stands back. Standing back consists of practices that put the
@@ -3676,7 +3672,7 @@ division of labor to the increasing integration of machines in labor,
 and to the ever-increasing automatization of labor.
 
 In Charles’ video essay, the opening scene of the first chapter — titled
-‘Metropolis’ — portrays Manhattan’s Financial District from the vantage
+*Metropolis* — portrays Manhattan’s Financial District from the vantage
 point of a train crossing the Manhattan Bridge. The camera captures the
 skyline of Lower Manhattan which, with its square blocks of skyscrapers
 and cube-like façades of Art Deco buildings, provides an association
@@ -3704,10 +3700,10 @@ a few people in sight. The voice-over continues:
 > The spread of intelligence across Europe can be mapped, like an
 > incurable epidemic of knowledge. In the place of public readings, came
 > reading in private, in silence. The secrets of what never happened, in
-> the end, cannot be burned, they multiply and imprint in every corner…
+> the end, cannot be burned, they multiply and imprint in every corner \[…\]
 > I live through the structures and on the structures that have been
 > planned by architects, designed by vibration, washed through with
-> information… I stood before the source, an empty tomb. To be closer to
+> information \[…\] I stood before the source, an empty tomb. To be closer to
 > the source is all I needed. The trucks could roll from their momentum,
 > even with the brakes on. Their housings were dockside palaces.
 > Treasure would travel hundreds of miles over days \[…\] A new king
@@ -3718,7 +3714,7 @@ of underground utility ducts, and an industrial air ventilation system
 indicate that we are milling around the financial markets, located
 within the edifices of the depicted institutions and corporations.
 
-The video’s next chapter, titled ‘Servers’, takes the viewer beyond the
+The video’s next chapter, titled *Servers*, takes the viewer beyond the
 façade of an edifice in the Financial District and into the building’s
 empty hallways where ‘the new king’ allegedly resides. The
 sepia-colored, dimly-lit architecture of the building’s foyer contrasts
@@ -3969,7 +3965,7 @@ direction of New Jersey. The voice-over narrates:
 > The river flows and undulates underneath. Underground, organized
 > tributaries completing the feedback loop. I was drawn in by the
 > trickle of the stream, the meagre beginnings. The undulated notes that
-> cascade on top of one another, collecting and forming to lead me on...
+> cascade on top of one another, collecting and forming to lead me on \[…\]
 > A million pounds will roll into the sea, dissolve, burn, blow away.
 > You will never breathe the ashes, nor will you drink the pulp.
 
@@ -3996,7 +3992,7 @@ an ambiguous and versatile metaphor, too. Flood stories are numerous,
 stretch over epochs, and cross and cover all continents. In European
 mythologies, amongst others, a flood or deluge is more often than not
 sent by some kind of deity as a result of a conflict between deities or
-as the fallout of god’s wrath. Charles leaves the signification of the
+as the fallout of God’s wrath. Charles leaves the signification of the
 flood in *Fragments on Machines* open to interpretation. When understood
 as a metaphor for the ‘new king’ of algorithmic high-frequency trading,
 wrath is upon us. In another reading, the apparatuses of financial
@@ -4015,7 +4011,7 @@ trading with a sphere or realm outside the seemingly all-encompassing
 black box of finance and points to the influence this ‘outside’ can have
 on the vulnerable infrastructure of algorithmic trading. It points to
 that which cannot be predicted or financialized, to that which cannot be
-protected by risk management or insurances, and to possible consequences
+protected by risk management or insurances, and to the possible consequences
 that exceed the expected.
 
 Can we relate to this ambiguity without mystifying it? Can we engage
@@ -4032,8 +4028,8 @@ for the investors of the said catastrophe bond. Melinda Cooper explains:
 > \[W\]hile weather-related risk had once been covered through indirect
 > means, such as property insurance, the contingencies of the weather
 > could now be directly hedged and traded in the capital markets. The
-> curious effect is that climate change—and the critical or singular
-> events it may engender—has become a speculative opportunity like any
+> curious effect is that climate change — and the critical or singular
+> events it may engender — has become a speculative opportunity like any
 > other in a market hungry for critical events.[^ch03_79]
 
 These bonds turn disruptive events where a great deal of uncertainty and
@@ -4151,7 +4147,7 @@ read:
 >
 > The flash crash was an event for me,
 >
-> that… well,
+> that \[…\] well,
 >
 > it was a defining event
 >
@@ -4177,7 +4173,7 @@ read:
 >
 > and, like on every trading floor, CNBC is on
 >
-> And I saw the Down Jones dropped another 100 points
+> And I saw the Dow Jones dropped another 100 points
 >
 > A minute later I look up
 >
@@ -4347,7 +4343,7 @@ An ambiguous agency occurs in *Pull everything, pull everything*,
 reinforcing mystification around the Flash Crash. An unknown source or
 force elevates the traders’ desks from the ground and rotates them in
 the air. *Pull everything, pull everything* inserts a mysterious,
-invisible, omnipotent agent that seems to pulls the strings in the
+invisible, omnipotent agent that seems to pull the strings in the
 trading room. High-frequency trading is associated with a form of
 invisible, automated, yet animated life. The occurrence of black box
 related aspects, such as invisible and unknown causes, further adds to a
@@ -4402,15 +4398,15 @@ conceptions include both implicit and explicit claims about what the
 economy is, what it’s for, and what it should be’.[^ch03_86] Writing about
 the Black-Scholes model and relying on the work of Michel Callon, Donald
 makes a similar argument in *An Engine Not A Camera: How Financial
-Models Shape Markets* (2006): models trump reality—or, theory trumps
+Models Shape Markets* (2006): models trump reality — or, theory trumps
 practice. In a self-referring and self-confirming loop, MacKenzie argues
 that economic theories and trading models perform and hence shape the
 operations and processes of financial markets. Model-makers, he states,
 imagine the financial market as predictable and controllable. The models
-built on this assumption subsequently perform it. He writes: “\[t\]he
+built on this assumption subsequently perform it. He writes: '\[t\]he
 effects of the use of the Black-Scholes-Merton model in arbitrage thus
-seem to have formed a direct performative loop between ‘theory’ and
-‘reality’.[^ch03_87] The model, and the practice it sustained helped to
+seem to have formed a direct performative loop between "theory" and
+"reality"'.[^ch03_87] The model, and the practice it sustained helped to
 create a reality on the market that confirmed the theory of the
 model.[^ch03_88]
 
@@ -4479,7 +4475,7 @@ Upon entering the exhibition space of *Pull everything, pull everything*
 visitors would see two black screens suspended from the ceiling by a
 monitor arm, alluding to the screens on the traders’ desks. To be able
 to watch the loop on the suspended two-channel installation, Herregraven
-lets the visitors tilt their heads,, bend their knees, or sit down on
+lets the visitors tilt their heads, bend their knees, or sit down on
 the floor below the screens. With this construction, Herregraven staged
 a contemporary version of a plot device used in classic theatre: the
 *deus ex machina*. This device is the sudden, unexpected appearance of
@@ -5124,7 +5120,7 @@ answers is delegated to proprietary algorithms run by companies whose
 operations are based on the quest for profit. In Henrot’s experimental
 video *Grosse Fatigue* (2013), the emphasis goes to searching as an act
 of collecting and it addresses the question of what constitutes a web
-search and why this is a causes anxiety.[^ch04_7] In an attempt to answer
+search and why this is a cause of anxiety.[^ch04_7] In an attempt to answer
 this question, the artist explores a long tradition of philosophical
 reflections on the will to know, zooming in on collecting as an activity
 that gives form to this desire. The second half of this chapter focuses
@@ -5500,7 +5496,7 @@ mediated and governed queries. What Google's search algorithms and the
 Smithsonian have in common are their attempts to organize disorder.
 
 The opening scene of *Grosse Fatigue* starts with an image of a laptop
-screen with a desktop image of the milky way. A *Final Cut Pro* file is
+screen with a desktop image of the milky way. A Final Cut Pro-file is
 opened, and two windows pop onto the desktop. Each show what appears to
 be the same art catalogue against a yellow background. In one window,
 the book opens on a page with a centerfold portrait picture of native
@@ -5747,9 +5743,9 @@ another Kierkegaardian echo. Henrot writes: ‘when you try to grasp
 universal questions, or questions that are too big, you need to draw
 into yourself, to use intimacy and subjectivity as a means of accessing
 something beyond the self’.[^ch04_39] In Kierkegaardian fashion, Henrot
-synthesizes faith and knowledge.
+synthesizes faith and knowledge. Like love, dancing, and exiting, knowledge is not act, not a thing, that happens in relation.
 
-## Frames, windows, boxes & other rectangular encounters
+## Frames, Windows, Boxes & Other Rectangular Encounters
 
 As noted earlier, what Google’s search engine, the Smithsonian
 collections, and creation stories have in common are their attempts to
@@ -5843,7 +5839,7 @@ visually represented as part of a larger whole made up of other
 disciplines that are similar to it. In *Grosse Fatigue,* all the
 different parts are represented by rectangles. Henrot calls these
 ‘reciprocal inclusions’, and they are formally represented on screen as
-a stack of superimposed windows diminishing in size.[^ch04_41] Like envelops
+a stack of superimposed windows diminishing in size.[^ch04_41] Like envelopes
 like envelopes like envelopes like. This visual play with patterns of
 rectangles is repeated throughout the film, like a Fibonacci sequence.
 In doing so, *Grosse Fatigue* stages a mesmerizing audio and visual
@@ -5857,7 +5853,7 @@ an infinitely recurring sequence of squares within squares.
 
 ![](imgs/ch04img03.jpg)
 
-Figure 11: Video still *Grosse Fatigue* by artist Camille Henrot.
+Figure 11: Video still from *Grosse Fatigue* by artist Camille Henrot.
 
 ‘Knowledge is made for cutting’, Foucault once famously asserted.[^ch04_43]
 In other words, in an attempt to understand the whole, parts are formed.
@@ -5906,7 +5902,7 @@ preservation of objects within the rectangular spaces of an institution
 on to for eternity. Like a wild animal in a cage, the archive and the
 search engine contain disorder by enclosing it in a rectangle and by
 rendering it into an ordered list of ‘results’ and a neat line of
-taxidermal animals.
+taxidermy animals.
 
 The rectangle is also a key characteristic of another Google feature,
 the so-called Knowledge Graph. When users query a well-known person,
@@ -5999,8 +5995,7 @@ what not — to what is indexed and what not — but also to who sets the
 rules and who owns the index. An index, as is well known, is a tool of
 arrangement. Google’s index is a means to create a system of order in
 what would otherwise be perceived as a chaotic multitude. To index is to
-practice exclusions. Exclusions generate a list of results with top and
-a bottom. Without cutting, discarding, and excluding, there can be no
+practice exclusions. Exclusions generate a list of results with a top and bottom. Without cutting, discarding, and excluding, there can be no
 index and no ranked results. An index makes available and unavailable,
 connects and disconnects, and interconnects, recognises, misrecognizes,
 and unrecognizes. What is considered part of its index is therefore
@@ -6048,7 +6043,7 @@ breathing, the voiceover continues in a mournful tone:
 >
 > The whole earth was heavy and then Yahweh rested.
 >
-> …resting, Pan Gu laid down
+> \[…\] resting, Pan Gu laid down
 >
 > and resting, he died.[^ch04_57]
 
@@ -6066,7 +6061,7 @@ subjectivity. Queries into Google’s vast database or into the
 Smithsonian’s collection are mediated and governed queries that happen
 within the bounded space of the web and the archive, which are limited
 spaces and bounded by time. By overestimating what Google, the
-Smithsonian and creation stories can provide, Grosse Fatigue's searcher
+Smithsonian and creation stories can provide, *Grosse Fatigue*'s searcher
 is seized by anxiety. Questions regarding existence cannot be answered
 by data or documents alone. Further, many things in human existence
 cannot be documented, transfixed, factually accounted for, indexed or
@@ -6149,7 +6144,7 @@ Images of globes reappear in *Grosse Fatigue*: an inflatable globe, a
 picture of the earth from space, the cover of the Whole Earth Catalogue,
 a desk globe and a button with the text: ‘Why haven't we seen a
 photograph of the whole earth yet?’ Globes, and by extension images of
-globes, imitate the perspective of *Panoptes*, the all-seeing. A globe
+globes, imitate the perspective of Panoptes, the all-seeing. A globe
 offers a ‘model of totalizing vision’.[^ch04_66] Globes also provide an image
 of the world as an object. Importantly, globes place the one looking at
 the globe outside of it. It suggests the gaze of an all-seeing outsider.
@@ -6157,7 +6152,7 @@ In looking at a globe, one takes the gaze and the position of someone
 who no longer inhabits the world, but holds it before their eyes, from a
 distance — like a lonely God. Henrot writes:
 
-> The \[Smithsonian Natural History Museum\] is like a neurosis…
+> The \[Smithsonian Natural History Museum\] is like a neurosis \[…\]
 > Everything must enter the museum: everything living, dying, or
 > deceiving; all the fish in the sea, all the birds in the sky, all the
 > animals of the forest. The aim of the Smithsonian’s Natural History
@@ -6188,7 +6183,7 @@ in *The Arcades Project*:
 
 > What is decisive in collecting is that the object is detached from all
 > its original functions in order to enter into the closest conceivable
-> relation to things of the same kind… It is the deepest enchantment of
+> relation to things of the same kind \[…\] It is the deepest enchantment of
 > the collector to enclose the particular item within a magic circle,
 > where, as a last shudder runs through it (the shudder of being
 > acquired), it turns to stone. Everything remembered, everything
@@ -6347,7 +6342,7 @@ with contradictions. It enacts web search as the result of a continuous
 exchange between two opposites that influence each other: the analogue
 and the digital, the historical and the contemporary, the factual and
 the fictional, faith and reason. Quests for knowledge are about thinking
-*and* being. Kierkegaard writes in *CUP*: ‘thinking and being signify
+*and* being. Kierkegaard writes in *Concluding Unscientific Postscript*: ‘thinking and being signify
 one and the same’.[^ch04_92] Kierkegaard would insist that these dwelling
 spaces of collectors are not autarchic spaces; they are never cleansed
 of frustration nor rinsed clear of uncertainties. Likewise, search
@@ -6370,7 +6365,7 @@ synthesize the main ideas of the previous chapters that together affirm
 the importance of an aesthetics of possibility in relation to
 algorithmic anxiety.
 
-[^ch04_1]: E. Kolbert, ‘Who Owns the Internet?’ *The New Yorker*, 21 August
+[^ch04_1]: E. Kolbert, ‘Who Owns the Internet?’, *The New Yorker*, 21 August
     2017,
     https://www.newyorker.com/magazine/2017/08/28/who-owns-the-internet.
 
@@ -6416,7 +6411,7 @@ algorithmic anxiety.
     London; Kunsthal Charlottenburg, Copenhagen; Bétonsalon, Paris;
     Westfällischer Kunstverein, Munster; Palais de Tokyo, Paris; Hammer
     Museum, Los Angeles; Fondazione Memmo, Rome; the New Museum, New
-    York; Schinkel Pavilion, Berlin; New Orleans Museum of Art, New
+    York; Schinkel Pavillon, Berlin; New Orleans Museum of Art, New
     Orleans; Musée du Jeu de Paume, Paris; MoMA, New York; Centre
     Pompidou, Paris; Astrup Fearnley Museet, Oslo; Stedelijk Museum,
     Amsterdam; SculptureCenter, New York; as well as the 2015 Lyon
@@ -6771,8 +6766,7 @@ exploitation. I observed that the proliferation of, in particular, the
 mechanics, apparatuses, and infrastructures of facial recognition
 algorithms, trading algorithms, and search algorithms had drawn the
 attention and concern of a growing group of contemporary artists over
-the past decade. What I have referred to as algorithmic anxiety was
-framed as an extension of Kierkegaard’s distinctive concept of anxiety
+the past decade. I framed what I have referred to as algorithmic anxiety as an extension of Kierkegaard’s distinctive concept of anxiety
 mapped onto prominent contemporary artworks that engage explicitly with
 facial recognition, trading algorithms, and search algorithms.
 
@@ -6785,51 +6779,39 @@ line with Kierkegaard’s conception of anxiety, I have described
 algorithmic anxiety as a relational synthesis between confining and
 extending constituents of the self, actuality, and knowledge, of which
 the finite, necessity, and temporality are confining and the infinite,
-possibility, and the eternal the extending constituents. Put simply,
+possibility, and the eternal the extending constituents. Put simply, I argued that
 where necessity converges, possibility diverges. Algorithmic anxiety
 happens when one side of the reciprocal relation is overlooked,
 underdeveloped, or ignored. It is conditioned by a sense of being
 entangled within a system within which you cannot freely move and within
-which you experience a lack of power and resources to climb out of.
+which you experience a lack of power and resources to escape.
 
-The question that algorithmic anxiety poses is one of positioning: it is
-a matter of relating to the possible while simultaneously accounting for
-necessity. What resonates in the majority of artistic portrayals is an
-emphasis on necessity, on the converging aspects of the self, the
-structures of actuality, and the production of knowledge in algorithmic
-culture. Further, algorithmic anxiety represents a desire to move away
-from centralized powers and central mediators, and a desire for changes
-in the distribution of resources, political power and information, as
-well as a desire for more participatory and inclusive forms of
-government. It gets to the ways that algorithms, in part intended to
-reduce and control the anxieties around the incomprehensibility and
-unpredictability of social reality, instead refashion anxieties they
-purport to manage.
+The question that algorithmic anxiety poses is one of positioning: it is a matter of relating to the possible while simultaneously accounting for necessity. What resonates in the majority of artistic portrayals is an emphasis on necessity, on the converging aspects of the self, the structures of actuality, and the production of knowledge in algorithmic culture. Further, algorithmic anxiety represents a desire to move away from centralized powers and central mediators, and a desire for changes
+in the distribution of resources, political power and information, as well as a desire for more participatory and inclusive forms of
+government. It gets at the ways that algorithms, which are, in part, intended to reduce and control the anxieties around the incomprehensibility and unpredictability of social reality, instead refashion the anxieties they purport to manage.
 
 A few intriguing contemporary artworks frame algorithmic anxiety as the
 relation between, on the one hand, the radical openness of the self,
-knowledge and actuality, *and*, on the other hand, the rigid algorithmic
+knowledge and actuality; *and*, on the other hand, the rigid algorithmic
 regimes that attempt to circumscribe this openness. In these works,
 algorithmic anxiety provides the opportunity to relate to the extending
 aspects of self, the structures of actuality, and the production of
-knowledge.
-
-Here, artists do not merely reflect on the experienced anxieties about
+knowledge. Here, artists do not merely reflect on the experienced anxieties about
 algorithmic culture, but also re-imagine the entanglement of the social
-and the algorithmic pointing to alternative relations of entanglement.
+and the algorithmic, pointing to alternative relations of entanglement.
 In various ways masks (Chapter 2), specters (Chapter 3) and collectors
 (Chapter 4) represent alternative ways of relating to algorithmic
 culture. The artistic portrayals of these ambiguous motifs point to or
 hint at where there might be room to maneuver, where cracks and fissures
 appear. The relational conceptualization of masks (Chapter 2), specters
-(Chapter 3) and collectors (Chapter 4) developed in the book’s analyses
+(Chapter 3) and collectors (Chapter 4) developed in this book’s analyses
 of artworks hints at conditions that could make changes in the
 entanglement of the social and the algorithmic possible by tacitly but
-poignantly pointing to bottom-up, smaller-scale and collective and
+poignantly pointing to bottom-up, smaller-scale, and collective and
 participatory movements that allow for different ways of relating. These
 different forms of relating, these movements, take the form of syntheses
 between individual independence and collective interdependence, between
-opening up and cracking up, and between means and ends.
+opening up and cracking up, and between means and ends. I will now outline the chapters in more detail and relate algorithmic anxiety to the possible algorithmic culture more broadly.
 
 ## 
 
@@ -6837,80 +6819,18 @@ opening up and cracking up, and between means and ends.
 
 In the first case study in Chapter 2, I approached algorithmic anxiety
 by assessing works by three contemporary artists — Zach Blas, Adam
-Harvey and Sterling Crispin — all of whom have responded to recognition
-algorithms with masks and camouflage techniques designed as a means to
-disrupt and critique the perceived proliferation and threat of facial
-recognition devices and practices. The algorithmic capture of the face
-causes anxiety partly because the desire for sovereignty, immunity,
-autonomy, and self-transparency is perceived as tarnished and inhibited
-by the potentialities facial recognition technology is associated with,
-namely: to police, inspect, nudge, and oppress. The logic and practices
-that manifest itself through facial recognition technology are perceived
-to pose the risk, to individuals and groups in society, to become a tool
-for those in whose service facial recognition technologies operate.
-Unable to know the future and see what that risk may entail, artists
-imagine what the future may bring forth, and share a tendency to hold on
-to what one is afraid to lose and believes to possess in the present:
+Harvey and Sterling Crispin. In different ways, each respond to recognition algorithms with masks or camouflage techniques designed as a means to disrupt and critique the perceived proliferation and threat of facial recognition devices and practices. The algorithmic capture of the face causes anxiety partly because the desire for sovereignty, immunity, autonomy, and self-transparency are perceived to be tarnished and inhibited by the potentialities facial recognition technology is associated with, namely: to police, inspect, nudge, and oppress. The logic and practices that manifest themselves through facial recognition technology are perceived to pose the risk, to individuals and groups in society and to become a tool for those in whose service facial recognition technologies operate. Unable to know the future or see what that risk facial recognition technology may entail, artists
+imagine what the future may bring forth, and hold on
+to what we are afraid to lose in the future, but are believed to possess in the present:
 autonomy, privacy, sovereignty.
 
-Masks and camouflage offer symbolic and practices of resistance to these
-posed threats. The prevalence of masks and camouflage in contemporary
-art as a response to facial recognition algorithms builds on a
-historical tradition of facial concealment as well as on black-boxing
-strategies used by political protest movements, in civil conflict, and
-(guerrilla) war. By exploiting the weaknesses in recognition technology,
-face masks and camouflage do not merely represent a subversive hacking
-of facial recognition technology. Beyond this, face masks and camouflage
-offer movement, and movement comprises more than the fading-in-of- and
-fading-out-of-sight of facial recognition technologies.
+Algorithmic anxiety in the face of facial recognition systems is shaped by the desire for something that is perceived as hampered or at risk. Desires, of different people in different contexts and situations, cannot be separated from gender, ethnicity, geographic location, abilities and aspects of one's socio-political or economic habitat. A close reading of masks and camouflage practices indicates a desire to belong, to community and solidarity, a desire to be recognized and seen, as well as a desire to withdraw, depersonalize, and hide in the masses. As strategies of hiding, withdrawing and depersonalizing, face masks and camouflage cannot be separated from the desire to be seen and belong. The algorithmic anxiety evoked by facial recognition technology emerges from the dynamic between the desire to be acknowledged, valued, recognized, and included *and* the fear of being objectified, denied, excluded, and disregarded; between the desire to be autonomous and independent *and* the fears that the inability to be such evokes. The work of Blas, Harvey, and Crispin show that relationality always involves risks, the risk of being judged, exposed, or objectified.
 
-Algorithmic anxiety in the face of facial recognition systems is shaped
-by the desire for something that is perceived as hampered or at risk.
-Desires, of different people in different contexts and situations,
-cannot be separated from gender, ethnicity, geographic location,
-abilities and aspects of one's socio-political or economic habitat. A
-close reading of masks and camouflage practices indicates a desire to
-belong, to community and solidarity, a desire to be recognized and seen,
-as well as a desire to withdraw, depersonalize, and hide in the masses.
-Face masks and camouflage as strategies of hiding, withdrawing and
-depersonalizing, cannot be separated from the desire to be seen and
-belong. Algorithmic anxiety evoked by facial recognition technology is
-the dynamic between the desire to be acknowledged, valued, recognized,
-and included *and* the fear of being objectified, denied, excluded, and
-disregarded; between the desire to be autonomous and independent *and*
-the fears that the inability to be such evokes. The work of Blas,
-Harvey, and Crispin show that relationality always involves risks, the
-risk of being judged, exposed, objectified.
+Masks and camouflage offer symbolic and practices of resistance to these posed threats. The prevalence of masks and camouflage in contemporary art as a response to facial recognition algorithms builds on a historical tradition of facial concealment as well as on black-boxing strategies used by political protest movements, in civil conflict, and (guerrilla) war. By exploiting the weaknesses in recognition technology, face masks and camouflage do not merely represent a subversive hacking of facial recognition technology. Beyond this, face masks and camouflage offer movement, and movement comprises more than the fading-into- and fading-out-of-sight of facial recognition technologies.
 
-Masks and camouflage emblematize the grip algorithmic facial capture
-technologies have on the self and offer an intervention in this tension
-field by allowing for a reorganization of an experienced power imbalance
-and precariousness. Crispin fears that algorithmic facial capture and
-the profit-driven data it produces will become a dominant way of
-assembling and imagining people. However, his *Data Masks* suggests that
-this model is forced upon social reality, but is not reality itself. The
-gap between the two is a space of possibility, symbolized by covering
-the face as the desire for a space to cover. Further, the face masks of
-Blas and Harvey's camouflage print suggests that though much importance
-is often given to the autonomous, self-contained, self-organising
-person, facial recognition technology's grip might be loosened by way of
-moving towards collectivity, collaboration, community work, and
-solidarity.
+Masks and camouflage emblematize the grip algorithmic facial capture technologies have on the self and offer an intervention in this tension field by allowing for a reorganization of an experience of power imbalance and precariousness. Crispin fears that algorithmic facial capture and the profit-driven data it produces will become a dominant way of assembling and imagining people. However, his *Data Masks* suggests that this model is forced upon social reality, but is not reality itself. The gap between the two is a space of possibility, symbolized by covering the face as the desire for a space to cover. Further, the face masks of Blas and Harvey's camouflage print suggests that though much importance is given to the autonomous, self-contained, self-organising person, facial recognition technology's grip might be loosened by way of moving towards collectivity, collaboration, community work, and solidarity.
 
-Masks and camouflage are not tools to resolve algorithmic anxiety. Over
-and beyond an intervention into facial recognition technology, the face
-masks and camouflage couture of Blas, Harvey and Crispin could be
-considered as stylized performances of the embodied, situated, and
-relational self. Rather than pointing to the vulnerability of the self
-and its relation to others, masks and camouflage point to different
-forms of being and relating such as interdependency, community,
-collectivity, among others.
-
-Masks and camouflage symbolize the possibility to maneuver vis-à-vis
-algorithmic capture and circumscription by multiplying and strengthening
-one's connections to and engagements with others.
-
-## 
+Masks and camouflage are not tools to resolve algorithmic anxiety. Over and beyond an intervention into facial recognition technology, the face masks and camouflage couture of Blas, Harvey and Crispin could be considered as stylized performances of the embodied, situated, and relational self. Rather than pointing to the vulnerability of the self and its relation to others, masks and camouflage point to different forms of being and relating such as interdependency, community, collectivity, among others. Masks and camouflage symbolize the possibility to maneuver vis-à-vis algorithmic capture and circumscription by multiplying and strengthening one's connections to and engagements with others. To maneuver as the specific kind of movement opened up by masks and camouflage.
 
 ## Black Box Anxiety and the Possible of System Collapse 
 
@@ -6938,30 +6858,17 @@ maximization, and the perceived lack of effect or bearing upon the
 operations of the black box of finance.
 
 However, some artists imagine the black box of finance as not merely the
-result of developments in and characteristics of algorithmic trading.
-The artistic engagement with trading algorithms of Femke Herregraven and
-Emma Charles points to the spectral condition of the black box of
-finance. This spectral relation lies therein that the black box of
-finance is portrayed as produced through a *synthesis* between a wide
-range of — seemingly oppositional — market actors and facets: past and
-present; visible and invisible; material and immaterial; regulators and
-operators; local and global; human and machine. In their work, the
-spectral symbolizes the ambiguous relations that constitute the black
+result of the development in, or and characteristics of, algorithmic trading. Femke Herregraven and Emma Charles's artistic engagement with trading algorithms points to the spectral condition of the black box of finance. In their work, this spectral relation emerges as the black box of finance is portrayed as produced having been through a *synthesis* between a wide range of — seemingly oppositional — market actors and facets: past and present; visible and invisible; material and immaterial; regulators and operators; local and global; human and machine. In their work, the spectral symbolizes the ambiguous relations that constitute the black
 box of finance which defy rationalization, systematization, and
-prediction. In their respective artworks, the spectral is figured by a
-flood, the suggestion of a ghost or hybrid in the black box of finance,
-and by God-like powers represented by a rapidly rotating column of wind
-inside of a trading room. As water and wind, the spectral is formless
-and makes its way through cracks and around obstacles.
+prediction.
 
-Herregraven and Charles reimagine the black box of finance as
-penetrable, changeable. A flood or a prodigious whirlwind can be
+Charles figures the spectral as a flood, the suggestion of a ghost or hybrid inhabiting black box of finance. Herregraven does so by the suggestion of God-like powers represented by a rapidly rotating column of wind inside of a trading room. As water and wind, the spectral is formless and makes its way through cracks and around obstacles. A flood or a prodigious whirlwind can be
 described as interventions which, in the words of Jack Halberstam, ‘do
 not seek to make life better under the current conditions of
 exploitation and extraction, but \[try\] to figure out how to bring
 things to the point of collapse’.[^concl_1] Wind can break while water can
 crash into things. The spectral events in the work of Charles and
-Herregraven do not fix, mend or ameliorate anything, but rather
+Herregraven do not fix, mend or improve anything, but rather
 momentarily tear the black box of finance apart. Collapse and
 catastrophe are here imagined as conditions to change, and as
 manifestations of possibility.
@@ -6971,64 +6878,22 @@ and Charles seem to suggest that another system is possible when this
 one breaks. As Halberstam puts it:
 
 > The question that seems most pertinent now, in an era of environmental
-> decline, financial corruption \[is\] how do we unbuild the world? …The
+> decline, financial corruption \[is\] how do we unbuild the world? \[…\] The
 > contemporary anarchist does not seek to make life better under the
 > current conditions of exploitation and extraction, but tries, rather,
 > to figure out how to bring things to the point of collapse.[^concl_2]
 
-The spectral interventions of Herregraven and Charles dissociate the
-black box of finance from its socio-technical infrastructure and break
-it open to transformative encounters, represented by alternative forms
-of relating and of presence, and by extension alternative ways of doing
-economics. An observation made by Siddharta Mukherjee on homeostasis is
-apposite here: ‘There’s a seemingly glassy transparency to things around
-us that work, made visible only when the glass is cracked and
-fissured.’[^concl_3] When glass cracks and fissures, it becomes marked. Shards
-reveal the bits and pieces that together made up its smooth and shiny
-surface. When glass shatters, it gives way to other spaces that exist
-within the seemingly totalizing frame of the black box of finance.
-Shaking and breaking stuff may open to alternatives that exist within
-and roam amid the seemingly all-encompassing and never-ending spaces of
-algorithmic capital accumulation. The desire to shake and break the
-black box of finance, the desire to grind the machine to a halt and the
-drift and force with which this happens in the artworks reflect the
-resolute rejection of the operations of the black box of finance.
-Further, breaking it down forms the mirror opposite of the perceived
-helplessness and powerlessness in relation to and the imperviousness of
-the black box of finance. As James Baldwin writes in a different
-context: ‘Any real change implies the breakup of the world as one has
-always known it, the loss of all that gave one an identity, the end of
-safety.’[^concl_4] Real change might be for the better but might also be for
-the worse, as everything is possible within the possible.
+The desire to shake and break the black box of finance, the desire to grind the machine to a halt (even if momentarily) and the drift and force with which this happens in artworks of Charles and Herregraven, reflects the resolute rejection of the operations of the black box of finance. Further, breaking it down forms a mirror opposite of the helplessness and powerlessness evoked by the black box of finance's perceived imperviousness. An observation made by Siddharta Mukherjee on homeostasis is apposite here: ‘There’s a seemingly glassy transparency to things around us that work, made visible only when the glass is cracked and fissured.’[^concl_3] When glass cracks and fissures, it becomes marked. Shards reveal the bits and pieces that together made up its smooth and shiny
+surface. When glass shatters, it gives way to other spaces that exist within the seemingly totalizing frame of the black box of finance. Shaking and breaking stuff may open to alternatives that exist within and roam amid the seemingly all-encompassing and never-ending spaces of algorithmic capital accumulation. The desire to shake and break the black box of finance, the desire to grind the machine to a halt and the drift and force with which this happens in the artworks reflect the resolute rejection of the operations of the black box of finance. Further, breaking it down forms the mirror opposite of the perceived helplessness and powerlessness in relation to and the imperviousness of the black box of finance. As James Baldwin writes in a different context: ‘Any real change implies the breakup of the world as one has
+always known it, the loss of all that gave one an identity, the end of safety.’[^concl_4] Indeed the end of safety, as real change might be for the better, but might also be for the worse, as everything is possible within the possible.
 
 ## Search Anxiety and the Possible of Passionate Acts
 
 Chapter 4 discussed search anxiety, the anxieties surrounding the
-centralization and corporatization of access to online information in
-general, and specifically around Google’ search engine algorithms
-because it is the most used search engine in Europe and the United
-States at least. Google’s search engine evokes anxiety about the
-possible exploitation of personal aggregated search data and the
-algorithmically ranking and listing of search results in the interest
-of, among other things, revenue. Search anxiety is about the possible in
-relation to a shared dependence on one for-profit company for access to
-online information. It revolves around the implication of quests for
-knowledge shaped by a for-profit logic.
+centralization and corporatization of access to online information in general, and specifically around Google’ search engine algorithms because it is the most used search engine in Europe and the United States at least. Google’s search engine evokes anxiety about the possible exploitation of personal aggregated search data and the algorithmically ranking and listing of search results in the interest of, among other things, revenue. Search anxiety is about the possible in relation to a shared dependence on one for-profit company for access to online information. It revolves around the implication of quests for knowledge shaped by a for-profit logic.
 
-The chapter zoomed in on one significant artistic response that has come
-in the form of an experimental film made by Camille Henrot that espouses
-the act of collecting. *Grosse Fatigue* enacts web search as a form of
-collecting within a collection and refers to Walter Benjamin’s
-conceptualization of the collector. When linked to Kierkegaard’s notion
-of passion, *Grosse Fatigue* shows a relationship to the centralised,
-monetized, and ordered structures of Google’s search engine which
-grounds search anxiety in possibility. This happens by reframing our
-searching condition and the act that gives form to it, collecting, as a
-passionate activity bordering on a feverish condition. To search is to
-collect, and a collection represents an idea or value that the collector
-feels passionate about and is strongly committed to. In other words, a
-collection is a concrete abstraction: to collect is a concrete act that
-happens in connection to abstract ideal, values and desire.
+The chapter zoomed in on one significant artistic response: *Grosse Fatigue,* an experimental film made by Camille Henrot that espouses
+the act of collecting. This chapter linked *Grosse Fatigue* to Kierkegaard’s notion of passion to argue that the film's depiction of our relationship to the centralised, monetized, and ordered structures of Google’s search engine which grounds search anxiety in possibility. This happens by reframing our searching condition and the act that gives form to it, collecting, as a passionate activity bordering on a feverish condition. Referring to Walter Benjamin's conceptualization of the collector, it suggests that to search is to collect, and a collection represents an idea or value that the collector feels passionate about and is strongly committed to. In other words, a collection is a concrete abstraction: to collect is a concrete act that happens in connection to abstract ideal, values and desire.
 
 Kierkegaard claims that passion is one way to relate to the possible.
 Passion can be described as an enduring desire that requires
@@ -7044,70 +6909,23 @@ something of intrinsic value, something that exceeds the logic of profit
 and capital accumulation, something that transcends the present order of
 things.
 
-However, collecting, as Henrot performs it in *Grosse Fatigue*, does not
-signal a break from nor exceeds the bounded and finite spaces of
-Google's indexed web. Indeed, to search is to collect *within* Google’s
-collection. Searching as collecting is collecting within a collection.
-Forming a collection could be considered as the building of a box in the
-theatre of the world, as Benjamin describes it. The box, the collection,
-may represent a value or an idea around which a collector frames its
-activities, not outside of or separate from but within the world. To
-foster a collection is to establish relations that enable the coming
-together of people and things that gravitate around (and are limited by)
-a common value, aspiration, or ideal. To collect is to gravitate around
-alternative values, valuables and different currencies than profit or
-truth. Collecting is a response to Google’s favoring of traffic over
-truth and clicks over content. It exceeds truth, traffic, clicks and
-content. To reframe searching as collecting within a collection is a
-limited and time-sensitive gesture oriented toward possibility, and
-geared toward different relations and cohabitations within Google’s
-engine — an act of worlding within the world-wide-web.
+However, as Henrot performs it in *Grosse Fatigue*, collecting does not signal a break from, nor exceed, the bounded and finite spaces of Google's indexed web. Indeed, to search is to collect *within* Google’s collection. Searching as collecting is collecting within a collection. Forming a collection could be considered as the building of a box in the theatre of the world, as Benjamin describes it. The box, the collection, may represent a value or an idea around which a collector frames their activities; not outside of or separate from, but within the world. To foster a collection is to establish relations that enable the coming together of people and things that gravitate around — and are limited by — a common value, aspiration, or ideal, the forming of a commonality. To collect is to gravitate around values, valuables and different currencies other than profit. Collecting is a response to Google’s favoring of traffic over knowledge and clicks over content. It exceeds truth, traffic, clicks and content. To reframe searching as collecting within a collection is a limited and time-sensitive gesture oriented toward possibility, and geared toward different narrations, relations, and cohabitations within Google’s engine. To search is to collect within a collection, and to collect is to foster the act of worlding — however brief, disorderly, and loosely organized. Collections, like assemblages, ‘are defined by the strength of what they gather as much as their always-possible dissipation’.[^concl_7] Like nodes and links on the web, the relations and connections within an assemblage are ephemeral, variable and fragile; they come together and fall apart, they
+break and dissolve. With search anxiety what Kiergegaard calls the possible is not about radical change,
+necessarily, but about the endless ways to draw and re-draw relations centered around shared values and strengthened by passion.
 
-To search is to collect within a collection, and to collect is to foster
-worlding —however brief, disorderly, and loosely organized. Collections,
-like assemblages, ‘are defined by the strength of what they gather as
-much as their always-possible dissipation’.[^concl_7] Like nodes and links on
-the web, the relations and connections within an assemblage are
-ephemeral, variable and fragile; they come together and fall apart, they
-break and dissolve. The possible here is not about radical change,
-necessarily, but about the endless ways to draw and re-draw relations
-centered around shared values and strengthened by passion.
-
-To return to the question posed at the start of this dissertation:
-Tactics of collaboration, practices of mobilization, reorganization, and
-rupture constitute the possible in relation to algorithmic anxiety.
-Where masking and collecting are tactics of living with anxieties evoked
-by search and facial recognition technology, the spectral calls for
-radical change in relation to algorithmic trading systems by battling
-through it.
+The artworks pointed to tactics of collaboration, of commonality, and practices of mobilization, reorganization, and rupture as constitutes of the possible in relation to algorithmic anxiety. But what ties masks, specters and collectors together?
 
 ## Movement at the Spot as the Response to Algorithmic Anxiety 
 
-What becomes of the possible when Kierkegaard’s critique is aimed at
-algorithmic culture? What ties masks, specters and collectors together?
-Movement *at the spot*. Movement at the spot, Kierkegaard writes:
-‘Neither moves from the place where it is nor arrives anywhere. \[It\]
-is literally a movement in that place.’[^concl_8] Movement at the spot is not
-reactionary, but imaginative and creative. This ‘movement of infinity’,
-as Kierkegaard calls it in *Fear and Tremblin*g, is a way of thinking,
-being, and imagining to preserve yourself, of creating a space to catch
-a breath, to buy time, and to organize and reorganize.[^concl_9] It also
-provides a metaphor for re-thinking and re-imagining the confining and
-limiting aspects of algorithmic culture. When the algorithmic is
-represented as becoming central in the organising, governing and
-confining of the socio-political sphere and in the distribution of
-wealth and information, movement is a way to battle the algorithmic
-anxiety this evokes. What Kierkegaard describes as ‘movement at the
-spot’ does not mean to — Romantically — fan the flames of faith and
-passion, or to celebrate imagination and collaboration.[^concl_10] Neither
-does it mean to jettison the algorithmic or to embrace it. Movement at
-the spot is not merely a ‘fantasy of exit’.[^concl_11] Instead, movement at
+AFter Kierkegaard, this book argues that masks, specters and collectors are tied together by movement *at the spot*. Movement at the spot, Kierkegaard writes: ‘Neither moves from the place where it is nor arrives anywhere. \[It\] is literally a movement in that place.’[^concl_8] Movement at the spot is not reactionary, but imaginative and creative. This ‘movement of infinity’, as Kierkegaard calls it in *Fear and Tremblin*g, is a way of thinking,
+being, and imagining to preserve yourself, of creating a space to catch a breath, to buy time, and to organize and reorganize [^concl_9] It also provides a metaphor for re-thinking and re-imagining the confining and limiting aspects of algorithmic culture. Algorithmic anxiety could be considered as a lack of movement, lost motion, or as the desire for motion.
+
+When the algorithmic is represented as becoming central in the organising, governing, and confining of the socio-political sphere and in the distribution of wealth and information, movement is a way to battle the algorithmic anxiety this evokes. What Kierkegaard describes as ‘movement at the spot’ does not mean to — Romantically — fan the flames of faith and passion, or to celebrate imagination and collaboration.[^concl_10] Neither does it mean to jettison the algorithmic or to embrace it. Movement at the spot is not merely a ‘fantasy of exit’.[^concl_11] Instead, movement at
 the spot is a way to understand algorithmic anxiety as grounded in
-necessity *and* possibility. Algorithmic anxiety could be considered as
-a lack of movement, lost motion, or as the desire for motion.
+necessity *and* possibility. Algorithmic anxiety could be considered as a lack of movement, lost motion, or as the desire for motion.
 
 The mask, the specter and the collector are figures of movement *at the
-spot*. Where algorithmic regimes attempt to confine motion and openness,
+spot and while entangled*. Where algorithmic regimes attempt to confine motion and openness,
 movement is the response. What always moves is difficult to grasp, and
 hence to be mathematically modelled, duplicated or regulated. Movement
 at the spot challenges the logic of algorithmic entrapment. It is less
@@ -7120,55 +6938,19 @@ possible ways around these delimitations. Living with algorithmic
 anxiety requires motion. Masks, specters, and collectors tell us that
 the algorithmic structures we inhabit and that inhibit us, in uneven and
 unequal ways, might be challenged by moving at the spot, by actively
-imagining moving through and around. They point to conditions for
+imagining moving through and around alorithmic entangles. They point to conditions for
 change, and to make room, however small, in a confined space.
 
-What becomes imaginable with movement? To move at the spot has a lot to
-do with positioning. It is about shifting positions within the uneven
-and unequal relations of power in the entanglement of the social and the
-algorithmic by strengthening ties, practicing solidarity by organising
-and re-grouping from within, as well by moving and breaking stuff.
-Masks, specters, and collectors provide room for the desire to make
-*and* unmake relations and connections, to produce zones of
-indiscernibility *and* collective presence, and to tear down *and* to
-re-arrange, assemble, and rebuild. As long as we fail to imagine
-fissures, openings or alternatives to algorithmic culture, we remain
-stuck and cornered in its grid. Masks, specters, and collectors offer a
-vision of the possible. In writing about the aesthetics of possibility,
-Ashton T. Crawley also connects possibility with imagination. He phrases
-it thus: ‘possibilities exist alongside that which we can detect with
-our finite sensual capacities’.[^concl_13] He adds: ‘Imagination is necessary
-for thinking into the capacities of infinite alternatives.’[^concl_14]
-Movement at the spot is a form of what Crawley calls ‘the nevertheless
-and in spite of condition’: that though one may feel enclosed,
-contained, circumscribed, ‘that — nevertheless, and in spite of — there
-is an excessive force that sustains’.[^concl_15] The word ‘nevertheless’ and
-the phrase ‘in spite of’ ‘mark the always available and plural otherwise
-possibility’.[^concl_16] Movement at the spot symbolizes what *may* condition
-otherwise possibilities. Kierkegaard observes: ‘Possibility is for the
-self what oxygen is for breathing.’[^concl_17] ‘Drawing breath in Latin is
-called *respiratio*, a word which indicates a flowing back of what had
-first flowed out. In drawing breath the organism enjoys its freedom,’
-Kierkegaard writes.[^concl_18] Movement at the spot symbolizes taking a deep
-breath, the kind of breath taken just before someone makes a move.
+What becomes imaginable with movement? To move at the spot has a lot to do with positioning. It is about shifting positions within the uneven and unequal relations of power in the entanglement of the social and the algorithmic by strengthening ties, practicing solidarity by organising and re-grouping from within, as well by moving and breaking stuff. Masks, specters, and collectors provide room for the desire to make *and* unmake relations and connections, to produce zones of indiscernibility *and* collective presence, and to tear down *and* to re-arrange, assemble, and rebuild. As long as we fail to imagine fissures, openings or alternatives to algorithmic culture, we remain stuck and cornered in its grid. Masks, specters, and collectors offer a vision of being otherwise entangled.
 
-Masks, specters and collectors represent different guises of possibility
-*grounded in necessity*. This grounding in necessity is of key
-importance. By grounding in necessity these figures, to refer to Donna
-Harraway, stay with the trouble. To stay with the trouble, Haraway
-writes in *Staying with the Trouble: Making Kin in the Chthulucene*
-(2016), is to reject the cynics, the technofixes, and the
-techno-apocalypses.[^concl_19] Staying with the trouble requires ‘unexpected
-collaborations and combinations’ that are ‘always situated, someplace
-and not no place, entangled’.[^concl_20] Masks, specters and collectors, as
-figures of movement at the spot, stay with the trouble represented by
-algorithmic regimes of confinement. Furthermore, in relation to
-algorithmic confinement, they represent situated responses to
-algorithmic anxiety. These situated responses are the result of
-collaborations and unexpected combinations, prompting different ways of
-relating to and refusing to succumb to the algorithmic trouble it finds
-itself in. This requires the continual work of dissembling, reframing,
-and repositioning. Taken together, masks, specters and collectors form
+In writing about the aesthetics of possibility, Ashton T. Crawley also connects possibility with imagination. He phrases it thus: ‘possibilities exist alongside that which we can detect with our finite sensual capacities’.[^concl_13] He adds: ‘Imagination is necessary for thinking into the capacities of infinite alternatives.’[^concl_14] Movement at the spot is a form of what Crawley calls ‘the nevertheless and in spite of condition’: that though one may feel enclosed, contained, circumscribed, ‘that — nevertheless, and in spite of — there is an excessive force that sustains’.[^concl_15] The word ‘nevertheless’ and
+the phrase ‘in spite of’ ‘mark the always available and plural otherwise possibility’.[^concl_16] Movement at the spot symbolizes what *may* condition otherwise possibilities. Kierkegaard observes: ‘Possibility is for the self what oxygen is for breathing.’[^concl_17] ‘Drawing breath in Latin is called *respiratio*, a word which indicates a flowing back of what had
+first flowed out. In drawing breath the organism enjoys its freedom,’ Kierkegaard writes.[^concl_18] Movement at the spot symbolizes taking a deep breath, the kind of breath taken just before someone makes a move.
+
+Masks, specters and collectors represent different guises of possibility *grounded in necessity*. This grounding in necessity is of crucial importance. By grounding in necessity these figures, to refer to Donna Harraway, stay with the trouble. To stay with the trouble, Haraway writes in *Staying with the Trouble: Making Kin in the Chthulucene* (2016), is to reject the cynics, the technofixes, and the techno-apocalypses.[^concl_19] Staying with the trouble requires ‘unexpected collaborations and combinations’ that are ‘always situated, someplace and not no place, entangled’.[^concl_20] As figures of movement at the spot, masks, specters and collectors stay with the trouble represented by
+algorithmic regimes of confinement. Masks, specters and collectors represent situated responses to
+algorithmic anxiety. Their situated responses prompt different ways of
+relating to the entanglement of the social and the algorithmic. Taken together, masks, specters and collectors form
 small gestures and creative experimentations with alternative ways of
 establishing connections, of being with others, and subversive acts of
 (dis)assembly. They point to where there is room to maneuver as well as
@@ -7177,42 +6959,22 @@ view.
 
 ## In Closing…
 
-It would be too easy to judge these artistic figures of movement on the
-basis of whether or not they have any measurable impact, or whether
-these works lead to concrete outputs.[^concl_21] Admittedly, none of the
-artworks discussed pave the way towards equivalence or equilibrium in
-happy co-existence with algorithms. None of them tackles or undoes
-algorithmic power abuses and ongoing capitalist exploitation in
-algorithmic culture. Nor do they provide a clear-cut answer to the
-amassing of personal data by corporations, to flash crashes on the
-financial markets, or skewed and slanted search results. The notion of
-movement at the spot will not assure those who want systematic and
-step-by-step formulas to be freed from algorithmic anxiety, wholesale.
+It would be too easy to judge these artistic figures of movement on the basis of whether or not they have any measurable impact, or whether these works lead to concrete outputs.[^concl_21] Admittedly, none of the artworks discussed pave the way towards equivalence or equilibrium in happy co-existence with algorithms. None of them tackles or undoes algorithmic power abuses and ongoing capitalist exploitation in algorithmic culture. Nor do they provide a clear-cut answer to the amassing of personal data by corporations, to flash crashes on the financial markets, or skewed and slanted search results. The notion of movement at the spot will not assure those who want systematic and step-by-step formulas to be freed from algorithmic anxiety, wholesale.
 Nor will it please those concerned with policy recommendations, tools
-and protocols on how to deal with internet monopolization, algorithmic
+and protocols by providing advice on how to deal with internet monopolization, algorithmic
 capitalism and surveillance, automated financial markets, or the
 monetization of online communication and (dis)information. These figures
 will not be able to assuage the anxieties of those who believe
 technological determination means that we are already claimed by it.
 Movement at the spot is not likely to change the minds of those for whom
 the wedlock between capitalist corporations, the state, and algorithmic
-exploitation reveals what the future will be and which renders artistic
+exploitation reveals what the future will be whilst rendering artistic
 interventions futile.
 
-What movement at the spot offers is a contribution to the making of an
-artistic imaginary of possibility characterized by convoluting,
+What movement at the spot offers is a contribution to the making of an artistic imaginary of possibility characterized by convoluting,
 entwining, and synthesizing relations. Movement at the spot is not
 merely about understanding that many things take the shape of a
-relational yet uneven synthesis or understanding the performativity of
-the confining and delimitating representations of algorithms. Movement
-at the spot imagines the possible as possible vis-a-vis the troubles it
-is in. Yet, it never accepts these troubles as fixed, given, or
-impervious to change, but continually seeks ways through, around, and in
-between them. Movement at the spot is situated, embodied, yet also an
-imaginative orientation towards possibility. It needs to be sustained by
-the continual work of the synthesis of possibility and necessity and the
-finite and the infinite. This work involves relational practices of
-being, thinking and doing — concrete, imaginative, and otherwise, both
+relational, yet uneven synthesis; or understanding the performativity of the confining and delimitating representations of algorithms. Movement at the spot imagines the possible as possible *vis-a-vis* the troubles it is in. Yet, it never accepts these troubles as fixed, given, or impervious to change, but continually seeks ways through, around, and in between them. Movement at the spot is situated, embodied, yet also an imaginative orientation towards possibility. It needs to be sustained by the continual work of the synthesis of possibility and necessity and the finite and the infinite. This work involves relational practices of being, thinking, and doing — concrete, imaginative, and otherwise, both
 small and large — that bring movement into view.
 
 Social life will continually find itself confronted, contained, and
@@ -8170,31 +7932,24 @@ Internet*, MU, Eindhoven, 2017.
 
 #Acknowledgements 
 
-It took a vast constellation of relations to write this book. These relations reach widely and vary greatly in their relationship to me, this work, this life. They cross vast spaces and times, species, and disciplines. Together they underscore the many interrelations, unexpected connections and alliances, and transformative encounters that make up this work, this life, me. I acknowledge that I am thoroughly dependent on and carried by all of yous. My gratitude is profound. 
+The writing of this dissertation is the result of a vast constellation of relations. These relations reach widely and vary greatly in their relationship to this work, this life, me. They cross disciplines, vast spaces and long times, and species. Together, they underscore the many connections, affective alliances and transformative encounters that make up this work, this life, me. I acknowledge that I am thoroughly indebted to and carried by all of you. My gratitude is profound. 
 
-I am deeply indebted to my supervisors at Erasmus University Rotterdam and Maastricht University. My gratitude goes out to Willem Schinkel. Willem has been a tremendous support, and I join many others in paying homage to him and acknowledging his intellectual generosity, mentorship, friendship and brilliance with which he helped me to think through and improve my ideas. I am grateful to Karin Wenz, who saw this project through to its completion, for her detailed and insightful commentaries, her warm support, her interdisciplinary expertise, and for being a gentle soul. And I am thankful to Jess Bier, for her sparkly energy, fantastic feedback and stellar hands-on suggestions. 
- 
-I want to thank the Amsterdam University of Applied Sciences, the Faculty of Digital Media and Creative Industries, for giving me the opportunity to write this book. Without their support, I would not be writing these acknowledgements. My sincere gratitude goes out to Geert Lovink, who stimulated me to pursue a Ph.D., for his tireless support and generosity, for being an uncompromising spirit, a source of inspiration, and for always asking the right questions. 
+I am much obliged to my supervisors at Erasmus University Rotterdam and Maastricht University. My gratitude goes out to Willem Schinkel. Willem has been a tremendous support, and I join many others in paying homage to him and acknowledging the intellectual generosity, mentorship, friendship, and brilliance with which he helped me to think through and improve my ideas. I am grateful to Karin Wenz, who saw this dissertation through to its completion, for her detailed and insightful commentaries, heartening support, her interdisciplinary expertise, and for being a gentle soul. And I am thankful to Jess Bier, for her sparkling energy, fantastic attentive feedback, and hands-on suggestions. 
 
-In 2017/2018 I spent a semester as a writer in residence at Digital Asia Hub in Hong Kong, which was an invaluable experience. I want to give a shout-out to Malavika Jayaram for inviting me to work with her, which was a delight, and for being such a generous human being whose spirit helped shape this book. 
+I want to thank the Amsterdam University of Applied Sciences, the Faculty of Digital Media and Creative Industries, for giving me the opportunity to work on this dissertation. Without their financial support, I would not be writing these acknowledgements. My sincere gratitude goes out to Geert Lovink, who stimulated me to pursue a Ph.D., for his tireless encouragement, for being an uncompromising spirit, and for always asking the right questions. The third chapter of this dissertation has been greatly informed and inspired by the MoneyLab project we developed over the years at the Institute of Network Cultures.
 
-Important parts of this book have been written in research environments I was lucky enough to be able to work in: the Netherlands Institute Turkey in Istanbul, Royal Netherlands Institute in Rome, Hong Kong University and Chinese University of Hong Kong. I am deeply appreciative of Adreas Treske, Su Gokce, Rosi Braidotti, Hollie Mackenzie, Anir Halder, Diana Teggi, Katie Guinnane, Donatella della Ratta, Richard Rogers, Jack Qiu, Ying Chan, Sam Chua, Dev Lewis, Rolien Hoying, Saskia Witteborn, Maggie Leung, Johanna Pezold, Nadim Abbas, Angela Dhalaigh, Anna Fiedler, Ashley Wong, Iris Hoiting and Anya Rangaswami for adding fluorescent colours to this trajectory.
+In 2017/2018 I spent a semester as a writer in residence at Digital Asia Hub (DAH) in Hong Kong, which was an invaluable experience. I want to give a shout-out to Malavika Jayaram, the director of DAH, for inviting me to work with her — which was a delight — and for being such a big-hearted, witty, and ingenious human being whose spirit helped shape this dissertation. 
 
-For sharing their critical and creative minds, for pointing at lineages, giving directions, for inspiring me to do better: Scott Wark, Shailoh Phillips, Sabine Niederer, Evelyn Wan, Inte Gloerich, Janna van Grunsven, Lacey Verhalen, Anja Groten, Tero Karppi, Anne Slootweg, Maja Hertoghs, Sanne Boersma, Irene van Oorschot, Rogier van Reekum, Max Dovey, Zouhair Hammana, Daan Oostveen, Kasper Bockweg, Marcel Zuijderland, and the anonymous Reviewer 2. 
+Important parts of this book have been formed and written in research environments I was lucky enough to be able to work in: the Netherlands Institute Turkey, in Istanbul, Royal Netherlands Institute, in Rome, Hong Kong University, and the Chinese University of Hong Kong. I am deeply appreciative of Adreas Treske, Su Gozke, Rosi Braidotti, Hollie Mackenzie, Anir Halder, Diana Teggi, Katie Guinnane, Donatella della Ratta, Richard Rogers, Jack Qiu, Ying Chan, Sam Chua, Rolien Hoying, Saskia Witteborn, Maggie Leung, Johanna Pezold, Dev Lewis, Angela Dhalaigh, Anna Fiedler, Ashley Wong, Iris Hoiting, Murat Es, Anya Rangaswami, and Shan & Tony, for adding fluorescent colours to this trajectory.
 
-For their loving support in different ways:  Maartje Wegdam, Marie Beauchamps, Moosje Goosen,  Narges Safei, Rosanne Veger, Lex Post, Thijs Bakker, Sanja Medic, Erika Sprey, Sam Simons, Nastaran Safei, Maryn Wilkinson, Cesare Baccheschi, Alia Trabucco Zerán, Rebekka Wörmann, Mila Schlingemann, Melle van den Berg, Andrea Meuzelaar, and Lynn Berger. I feel fortunate for having you in my life. For being my dearly beloved cheerleaders, I cheer to Marijke Vos, Shailoh Philips, Loes Bogers, Laura van Schendel, Josje Damsma, Sabine Niederer, Janna van Grunsven, Donny Hodge, Nina Köll, Rieke Vos, Ludivine Rugard, Laurie Cluitmans, Rosanne Veger, Tamara Shogaolu, Joram Lamberts. For keeping me laughing a good deal: Clemens Kaupa, Daniel de Zeeuw and Elise van Iterson. Sanne Koekoek, your sense, strength and insight is incomparable. I am grateful to Glenn and Orlando Gemerts, Michele Aboro, Caby Balentine, Marcel Smith, Marie-Christine Nicolas and Ilse Twigt who showed me the ropes and taught me how to fight. I am deeply indebted to Boukje Janssen, Marjanne Tamminga, Ammelie van Beurden, Frank de Roos, Marcel Prins, Merel Kuiper for their wisdom and for teaching me how to swim upstream. For reminding me of the existence of different temporalities and of the importance of the larger ethics of things, I want to thank Sibbe, Toru and Ack Tjal.  
+For sharing their critical and creative minds, for pointing at lineages, for giving directions, and for inspiring me to do better: Scott Wark, Sabine Niederer, Carlo de Gaetano, Inte Gloerich, Evelyn Wan, Lacey Verhalen, Anja Groten, Tero Karppi, Nadim Abbas, Max Dovey, Daan Oostveen, Kasper Bockweg, and the anonymous Reviewer 2. I want to thank my office mates at the EUR who made me feel welcome and at home: Anne Slootweg, Maja Hertoghs, Sanne Boersma, Irene van Oorschot, and Eva van Gemert.
 
-I want to thank my sister, a giant in generosity, in strength, in courage, in encouragement, and in sisterhood, and my mom for her unconditional love, her calm endurance, and for being right beside me, always.  
+I am grateful to Glenn and Orlando Gemerts, Michele Aboro, Bernabe Concepcion, Caby Balentine, Marcel Smith, Marie-Christine Nicolas and Ilse Twigt, who showed me the ropes and taught me how to keep moving in the ring of life. For you, I bow. I am deeply indebted to Boukje, Marjanne, Ammelie, Frank, and Marcel, for sharing their wisdom and for helping me swim upstream in the muddiest of waters. For their love, friendship, warmth, and support:  Maartje, Marie, Moosje, Narges, Lex, Thijs, Sanja, Erika, Sam, Nastaran, Maryn, Bas, James, Marijke, Cesare, Merel, Sanne, Alia, Rebekka, Nina, Mila, Melle, Andrea, and Lynn. For being my dearly beloved cheerleaders: Shailoh, Loes, Laura, Josje, Janna, Donny, Rieke, Ludivine, Laurie, Rosanne, Tamara, and Joram. For keeping me laughing a good deal: Clemens, Daniel, and Elise. I am so fortunate with all of you in my life. My gratitude extends to Sibbe, Toru and Ack-Tjal for reminding me of the existence of different temporalities and of the importance of the larger ethics of things. 
 
-
->But, of course […] we do not “own” the facts of our lives at all. 
->This ownership passes out of our hands at birth, 
->at the moment we are first observed.
-> 
->— Janet Malcolm, *The Silent Woman*
+I want to give a shout-out to my sister, a giant in empathy, in generosity, in strength, in encouragement, in optimism, and in sisterhood, and to my mom for her unconditional love, her calm endurance, and for being right by my side, always. I am blessed with you.
 
 
 # About the Author 
 
-Sheep-counter, pet-peever, door-holder, forgetter of birthdays, name rememberer, nodder to passers-by, loser of patience, awkward receiver of gifts, social slacker, keeper of secrets, dishwasher enthusiast, sister-teaser, squanderer of money, hearty greeter of cats, misser of fleeting moments, overdue payments avoider, sucker for ginger chews, self-doubter, amateur fighter, lurker, seeker of signs, jar opener extraordinaire, horoscope reader, ballpoint-stealer, nostalgic chocolate-sprinkles aficionado, finger-counter, slipshod speller, appreciator of low-calibre dad jokes, sweat dripper at the gym, enterer into temptation, petty holder of one, two, three grudges, fast eater of certain feelings, chatterer-up of dog-owners, hotel soap pilferer, ghoster, retailer of others’ stories, lighthearted gossiper, dweller in detail, foul player of board games, out-doer of student debtors, stickerer-up for loved ones, unsolicited advice giver, furtive observer of the scantily clad and naked in the sauna, groundsholder, believer of superstitions, collector of loose ends, luck pusher, and researcher at the Institute of Network Cultures in Amsterdam.
+Patricia de Vries is a sheep-counter, petter of peeves, door-holder, forgetter of birthdays, name rememberer, nodder to passers-by, loser of patience, awkward receiver of gifts, social slacker, keeper of secrets, dishwasher enthusiast, sister-teaser, squanderer of money, hearty greeter of cats, chatterer-up of dog-owners, proud owner of a copycat Miró, misser of fleeting moments, overdue payments avoider, sucker for ginger chews, self-doubter, amateur fighter, lurker, seeker of signs, jar opener extraordinaire, horoscope reader, ballpoint-stealer, sticker-uperer for loved ones, nostalgic chocolate sprinkles aficionado, finger-counter, slipshod speller, appreciator of low-caliber jokes, sweat dripper, petty holder of one, two, and a half grudges, fast eater of certain feelings, hotel soap-pilferer, ghoster, lighthearted gossiper, dweller-in-unnecessary-detail, foul player of board games, out-doer of student debtors, unsolicited advice-giver, furtive observer-of-the-naked, grounds-holder, believer of superstitions, collector of loose ends, luck pusher, and researcher at the Institute of Network Cultures in Amsterdam. 
 

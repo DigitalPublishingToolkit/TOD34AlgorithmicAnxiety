@@ -1,4 +1,4 @@
-<dc:identifier id="epub-id-1">urn:isbn:NNN-NN-NN-NN-n</dc:identifier>
+<dc:identifier id="epub-id-1">urn:isbn:978-94-92302-51-9</dc:identifier>
 <meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">01</meta>
 <dc:title id="epub-title-1">Algorithmic Anxiety in Contemporary Art: A Kierkegaardian Inquiry into the Imaginary of Possibility</dc:title>
 <meta refines="#epub-title-1" property="title-type">main</meta>
